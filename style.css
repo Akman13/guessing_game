@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+/* .wrong-guess {
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+    display: inline-block;
+    text-align: center;
+    text-decoration: line-through;
+} */
+
+.streak {
+    float: right;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header p {
+    display: inline-block;
+}
